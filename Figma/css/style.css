@@ -1,0 +1,564 @@
+body{
+  background-color: black;
+}
+.navbar-nav.navbar-center {
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%);
+}
+
+.logo-img{
+ position: absolute;
+width: 67px;
+height: 60px;
+left: 69px;
+top: 13px;
+     
+    }
+ .ellipse-img{
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1483px;
+top: 12px;
+    }
+
+.my{
+position: absolute;
+width: 585px;
+height: 56px;
+left: 500px;
+top: 70px;
+
+background: rgba(21, 21, 21, 0.94);
+backdrop-filter: blur(6px);
+}
+.feed{
+
+position: absolute;
+width: 52px;
+height: 21px;
+left: 37px;
+top: 30px;
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 13.8px;
+line-height: 150%;
+
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.giveaways{
+ position: absolute;
+width: 71px;
+height: 21px;
+left: 118px;
+top: 30px;
+
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 150%;
+
+
+display: flex;
+align-items: center;
+
+color: #A7A7A7;
+}
+
+.comic-steve{
+
+position: absolute;
+width: 585px;
+height: 658px;
+left: 500px;
+top: 126px;
+
+/* Gray/Background */
+
+background: #121212;
+}
+
+.comic-img{
+  position: absolute;
+left: 4.1%;
+right: 88.03%;
+top: 2.89%;
+bottom: 91.34%;
+}
+
+.comicsteve{
+
+position: absolute;
+left: 15.74%;
+right: 68.36%;
+top: 7%;
+bottom: 92.78%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.hrs{
+  position: absolute;
+left: 37.95%;
+right: 51.11%;
+top: 7%;
+bottom: 92.78%;
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+display: flex;
+align-items: center;
+
+/* Gray/Text-Gray */
+
+color: #A7A7A7;
+}
+
+.ellipse1{
+  position: absolute;
+left: 90%;
+right: 45%;
+top: 5%;
+bottom: 30%;
+width: 4px;
+height: 4px;
+background: #C4C4C4;
+}
+.ellipse2{
+  position: absolute;
+left: 90%;
+right: 45%;
+top: 6%;
+bottom: 30%;
+width: 4px;
+height: 4px;
+background: #C4C4C4;
+}
+.ellipse3{
+  position: absolute;
+left: 90%;
+right: 45%;
+top: 7%;
+bottom: 30%;
+width: 4px;
+height: 4px;
+background: #C4C4C4;
+}
+
+.comic-content{
+  position: absolute;
+left: 5.1%;
+right: 4.1%;
+top: 19%;
+bottom: 71.12%;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+display: flex;
+align-items: center;
+
+/* Gray/white */
+
+color: #FFFFFF;
+}
+
+.card-img{
+
+position: absolute;
+width: 537px;
+height: 390px;
+left: 24px;
+top: 244px;
+
+border-radius: 16px;
+}
+
+.Rectangle1{
+position: absolute;
+left: 46.15%;
+right: 52.37%;
+top: 98%;
+bottom: 7.58%;
+height: 6px;
+width: 7px;
+background: white;
+border-radius: 2px;
+}
+.Rectangle2{
+position: absolute;
+left: 48.15%;
+right: 52.37%;
+top: 98%;
+bottom: 7.58%;
+height: 6px;
+width: 7px;
+background: white;
+border-radius: 2px;
+}
+.Rectangle3{
+position: absolute;
+left: 50%;
+right: 52.37%;
+top: 98%;
+bottom: 7.58%;
+height: 6px;
+width: 7px;
+background: white;
+border-radius: 2px;
+}
+
+.search-container{
+  position: absolute;
+width: 342px;
+height: 48px;
+left: 50px;
+top: 100px;
+color: white;
+background: #212121;
+border-radius: 24px;
+}
+
+.comic-img2{
+  position: absolute;
+width: 48px;
+height: 48px;
+left: 50px;
+top: 170px;
+}
+.MartinRossi{
+  /* MartinRossi */
+
+
+position: absolute;
+width: 87px;
+height: 24px;
+left: 130px;
+top: 180px;
+
+/* Bold/Bold-16 */
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.My-Profile{
+  /* My Profile */
+
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: 130px;
+top: 270px;
+
+/* Bold/Bold-16 */
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.Messages{
+  position: absolute;
+width: 73px;
+height: 24px;
+left: 130px;
+top: 320px;
+
+/* Bold/Bold-16 */
+
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.yellow{
+ position: absolute;
+width: 176px;
+height: 56px;
+left: 130px;
+top: 440px;
+background: #FFF500;
+border-radius: 56px;
+}
+.New-Post{
+ position: absolute;
+width: 78px;
+height: 27px;
+left: 180px;
+top: 455px;
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: #121212;
+}
+.rectangle92{
+  /* Rectangle 92 */
+position: absolute;
+width: 464px;
+height: 343px;
+left: 1100px;
+top: 80px;
+background: #212121;
+border-radius: 16px;
+}
+
+.You-might-like{
+  /* You might like */
+position: absolute;
+width: 115px;
+height: 27px;
+left: 24px;
+top: 22px;
+/* Bold/Bold-18 */
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.Centerborder{
+position: absolute;
+width: 416px;
+height: 0px;
+left: 24px;
+top: 70px;
+border: 1px solid #404040;
+}
+.Ellipse48{
+position: absolute;
+width: 64px;
+height: 64px;
+left: 24px;
+top: 113px;
+}
+.AmandaJones{
+position: absolute;
+width: 108px;
+height: 24px;
+left: 104px;
+top: 121px;
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.amandajones1{
+position: absolute;
+width: 97px;
+height: 21px;
+left: 104px;
+top: 147px;
+font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: #A7A7A7;
+}
+.rectangle93{
+ position: absolute;
+width: 67px;
+height: 30px;
+left: 380px;
+top: 135px;
+background: black;
+border-radius: 56px;
+}
+.Follow{
+ position: absolute;
+width: 39px;
+height: 21px;
+left: 385px;
+top: 139px;
+font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: #A7A7A7;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+}
+
+.rectangle99{
+position: absolute;
+width: 464px;
+height: 330px;
+left: 1100px;
+top: 450px;
+background: #212121;
+border-radius: 16px;
+}
+
+.rectangle94{
+position: absolute;
+width: 464px;
+height: 64px;
+left: 0.5px;
+top: 2px;
+
+background: #212121;
+border-radius: 16px 16px 0px 0px;
+}
+
+.LatestfromShop{
+position: absolute;
+width: 141px;
+height: 27px;
+left: 24.5px;
+top: 15px;
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.Centerborder2{
+ position: absolute;
+width: 418px;
+height: 0px;
+left: 23.5px;
+top: 60px;
+border: 1px solid #404040;
+}
+.frame65{
+  position: absolute;
+width: 418px;
+height: 225px;
+left: 23.5px;
+top: 100px;
+background: #212121;
+}
+.rectangle97{
+position: absolute;
+width: 167px;
+height: 219px;
+left: 1px;
+top: 3px;
+border-radius: 32px;
+background: black;
+}
+.Rectangle96{
+ position: absolute;
+width: 140px;
+height: 150px;
+left: 13px;
+top: 12px;
+border-radius: 38.25px;
+}
+.Artgerm{
+ position: absolute;
+width: 165px;
+height: 21px;
+left: 20px;
+top: 170px;
+font-family: Product Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.superice{
+ position: absolute;
+width: 65px;
+height: 21px;
+left: 18px;
+top: 188px;
+font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: #A7A7A7;
+}
+
+.rectangle97a{
+ position: absolute;
+width: 167px;
+height: 219px;
+left: 217px;
+top: 4px;
+border-radius: 32px;
+background-color: black;
+}
